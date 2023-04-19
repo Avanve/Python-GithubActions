@@ -1,1 +1,1 @@
-# Build a Python Application with Githubactions
+# Build a Python Application with Github Actions
